@@ -36,7 +36,7 @@ export default {
   margin: 10px 10px;
   background-color: floralwhite;
   box-shadow: 0 5px 10px #999;
-  transition: 100ms;
+  transition: 1.2s cubic-bezier(.26,-0.71,.31,1.53);
   &:hover {
     box-shadow: 0 5px 20px #999;
     transform: scale(1.1);
