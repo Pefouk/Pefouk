@@ -1,7 +1,11 @@
 <template>
   <h1>Hello world</h1>
-  <Card :img="img" text="ouais" title="yes">
-  </Card>
+  <div class="card-deck">
+    <Card :img="img" text="ouais" title="yes" date="20 decembre 1997" class="center"/>
+    <Card :img="img" text="ouais" title="yes" date="20 decembre 1997" class="center"/>
+    <Card :img="img" text="ouais" title="yes" date="20 decembre 1997" class="center"/>
+    <Card :img="img" text="ouais" title="yes" date="20 decembre 1997" class="center"/>
+  </div>
 </template>
 
 <script>
@@ -13,7 +17,7 @@ export default {
   data() {
     return {
       img: {
-        src: "https://via.placeholder.com/350x150",
+        src: "https://via.placeholder.com/1920x1080",
         alt: "placeholder pas ouf"
       },
 
@@ -23,5 +27,9 @@ export default {
 </script>
 
 <style scoped lang="sass">
-
+@import "../assets/style.scss"
+.card-deck
+  display: flex
+  justify-content: center
+  flex-wrap: wrap
 </style>
