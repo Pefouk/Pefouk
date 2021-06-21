@@ -1,17 +1,21 @@
+@import './styles/variables.scss';
+@import './styles/width.scss';
 @import './styles/colors.scss';
+@import './styles/buttons.scss';
 
 body {
+  max-width: 100vw;
   font-family: Roboto;
   background-color: $background;
   color: $text;
 }
+
 
 h1 {
   transition: 2s ease-in-out;
   transform-origin: left;
   scale: 1;
   &:hover {
-    rotate: 360;
     transform: scale(2);
   }
 }

@@ -1,25 +1,38 @@
 <template>
-<h1>Jérémy Appriou</h1>
-<h2>Développeur web et web mobile</h2>
-<div>
-  <p class="primary">Primaire</p><p class="secondary">Secondaire</p><p class="text">Text normal</p><p class="danger">Danger</p>
-</div>
+  <div class="container">
+    <h1 class="primary row">Jérémy Appriou</h1>
+    <h2 class="row">Développeur web</h2>
+    <div class="row">
+      <p class="btn-s btn-primary">smol btn</p>
+      <p class="btn btn-primary">normal btn</p>
+      <p class="btn-l btn-primary">big btn</p>
+      <p class="btn-xl btn-primary">very big btn</p>
+    </div>
+    <div class="row">
+      <p class="btn btn-primary">btn primary</p>
+      <p class="btn btn-secondary">btn secondary</p>
+      <p class="btn btn-danger">btn danger</p>
+      <p class="btn btn-light">btn light</p>
+      <p class="btn btn-dark">btn dark</p>
+      <p class="btn btn-background">btn background</p>
+    </div>
+  </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from "vue";
+import btn from "./components/btn.vue";
 export default defineComponent({
-  name: 'App',
-})
+  components: { btn },
+  name: "App",
+});
 </script>
 
 <style lang="scss">
-@import './assets/main.scss';
-@import './assets/styles/colors.scss';
+@import "./assets/main.scss";
 
 #app {
   display: flex;
   flex-direction: column;
 }
-
 </style>
