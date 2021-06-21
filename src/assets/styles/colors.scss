@@ -5,11 +5,27 @@ $colors: (
   "secondary": rgb(245, 138, 7),
   "text": rgb(202, 255, 208),
   "danger": rgb(223, 41, 53),
-  "background": rgb(13, 24, 33)
+  "background": rgb(13, 24, 33),
 );
 
 $primary: map-get($colors, "primary");
-$secondary: map-get($colors,"secondary");
-$text:map-get($colors, "text");
+$secondary: map-get($colors, "secondary");
+$text: map-get($colors, "text");
 $danger: map-get($colors, "danger");
 $background: map-get($colors, "background");
+
+.primary {
+  color: $primary;
+}
+
+.secondary {
+  color: $secondary;
+}
+
+.danger {
+    color: $danger;
+}
+
+.text {
+    color: $text;
+}
