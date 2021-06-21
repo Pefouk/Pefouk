@@ -1,0 +1,15 @@
+/* Palette de couleur : https://coolors.co/0d1821-caffd0-89bbfe-df2935-f58a07 */
+
+$colors: (
+  "primary": rgb(137, 187, 254),
+  "secondary": rgb(245, 138, 7),
+  "text": rgb(202, 255, 208),
+  "danger": rgb(223, 41, 53),
+  "background": rgb(13, 24, 33)
+);
+
+$primary: map-get($colors, "primary");
+$secondary: map-get($colors,"secondary");
+$text:map-get($colors, "text");
+$danger: map-get($colors, "danger");
+$background: map-get($colors, "background");
