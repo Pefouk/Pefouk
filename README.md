@@ -1,5 +1,5 @@
 # 📖Site portfolio Jérémy Appriou
-Site portefolio monopage réalisé avec [Vue 3🎆](https://github.com/vuejs/vue) et [ViteJS⚡](https://github.com/vitejs/vite)
+Site portefolio monopage réalisé avec [Vue 3🖖](https://github.com/vuejs/vue) et [ViteJS⚡](https://github.com/vitejs/vite)
 
 Les objectifs lors de la création de ce site étant :
 1. Mettre a jour mon site portfolio/CV
