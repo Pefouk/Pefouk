@@ -6,18 +6,13 @@ $danger: map-get($colors, "danger");
 $background: map-get($colors, "background");
 $light: map-get($colors, "light");
 $dark: map-get($colors, "dark");
-.primary {
-  color: $primary;
+
+@mixin color-variant($value) {
+  color: $value;
 }
 
-.secondary {
-  color: $secondary;
-}
-
-.danger {
-    color: $danger;
-}
-
-.text {
-    color: $text;
+@each $color, $value in $colors {
+  .#{$color} {
+    @include color-variant($value);
+  }
 }

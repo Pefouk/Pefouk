@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="primary row">Jérémy Appriou</h1>
-    <h2 class="row">Développeur web</h2>
+    <h2 class="secondary row">Développeur web</h2>
     <div class="row">
       <div class="flex f-row f-spa-eve w-100">
         <p class="btn-s btn-primary">smol btn</p>
