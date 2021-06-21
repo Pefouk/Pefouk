@@ -9,4 +9,4 @@ Les objectifs lors de la création de ce site étant :
 
 👷‍♂️🚧En cours de développement 🚧👷‍♂️
 
-[Accessible ici🌐](https://pefouk.netlify.app/)
+[Accessible ici🌐](https://www.playerfrais.online)
