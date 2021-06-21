@@ -11,7 +11,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="flex f-row f-spa-eve w-100">
+      <div class="flex f-row f-spa-eve w-100 f-wrap">
         <p class="btn btn-primary">btn primary</p>
         <p class="btn btn-secondary">btn secondary</p>
         <p class="btn btn-danger">btn danger</p>

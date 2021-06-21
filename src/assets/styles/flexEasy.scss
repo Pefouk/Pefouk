@@ -14,14 +14,20 @@
   flex-direction: row-reverse;
 }
 .f-spa-eve {
-    justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 .f-spa-bet {
-    justify-content: space-between;
+  justify-content: space-between;
 }
 .f-spa-aro {
   justify-content: space-around;
 }
+.f-wrap {
+  flex-wrap: wrap;
+}
+.f-wrap-rev {
+  flex-wrap: wrap-reverse;
+}
 .w-100 {
-    width: 100%;
+  width: 100%;
 }
