@@ -1,0 +1,68 @@
+{
+    "identité": {
+        "nom" : "Appriou",
+        "prenom": "Jérémy",
+        "dateNaissance": "1999-12-16",
+        "habite": "Rennes",
+        "email": "jeremy.appriou@gmail.com",
+        "telephone": "0637279880",
+        "poste": "Développeur web",
+        "nationalité": "Français"
+    },
+    "projets": {
+        "Porfolio": {
+            "":""
+        }
+    },
+    "compétences": {
+        "Langages": [
+            "PHP",
+            "JavaScript",
+            "TypeScript",
+            "SQL",
+            "C",
+            "HTML/CSS",
+            "SCSS",
+            "Python",
+            "Java"
+        ],
+        "Frameworks Web Backend": [
+            "Symfony",
+            "Django",
+            "Java Spring"
+        ],
+        "Frameworks Web Frontend": [
+            "Vue",
+            "ViteJS",
+            "Angular"
+        ],
+        "Frameworks Web CSS": [
+            "Bootstrap",
+            "Skeleton"
+        ],
+        "Réseau et protocoles": [
+            "HTTP",
+            "API REST",
+            "SSH",
+            "SMTP",
+            "FTP",
+            "OAuth2"
+        ],
+        "Systèmes d'exploitations" : [
+            "Linux (Ubuntu, Fedora, Arch, Raspbian, Debian)",
+            "Windows", 
+            "Android"
+        ],
+        "Langues vivantes" : {
+            "Français": 10,
+            "Anlgais": 8,
+            "Espagnol": 4
+        },
+        "Divers": [
+            "Scrum",
+            "Git",
+            "SVN",
+            "Autodidacte"
+        ]
+    }
+}

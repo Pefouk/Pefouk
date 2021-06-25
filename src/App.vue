@@ -1,6 +1,8 @@
 <template>
   <div class="container">
-    <h1 class="primary row">Jérémy Appriou</h1>
+    <div style="width: auto">
+      <h1 class="primary row">Jérémy Appriou</h1>
+    </div>
     <h2 class="secondary row">Développeur web</h2>
     <div class="row">
       <div class="flex f-row f-spa-eve w-100">
@@ -25,9 +27,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import btn from "./components/btn.vue";
 export default defineComponent({
-  components: { btn },
   name: "App",
 });
 </script>
