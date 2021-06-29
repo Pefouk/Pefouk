@@ -1,22 +1,3 @@
-@import './styles/variables.scss';
-@import './styles/responsive.scss';
-@import './styles/colors.scss';
-@import './styles/buttons.scss';
-@import './styles/flexEasy.scss';
-
-body {
-  max-width: 100vw;
-  font-family: Roboto, Arial, Helvetica, sans-serif;
-  background-color: $background;
-  color: $text;
-}
-
-
-h1 {
-  transition: 2s ease-in-out;
-  transform-origin: left;
-  scale: 1;
-  &:hover {
-    transform: scale(2);
-  }
+#content {
+  padding-top: 20vh;
 }

@@ -1,25 +1,31 @@
 <template>
-  <div class="container">
-    <div style="width: auto">
-      <h1 class="primary row">Jérémy Appriou</h1>
+  <div id="header">
+    <div class="animated animate fade-in" style="width: 100vw">
+      <h1 class="header title primary animation slow pulseFromTop hover">
+        Jérémy Appriou
+      </h1>
     </div>
-    <h2 class="secondary row">Développeur web</h2>
-    <div class="row">
-      <div class="flex f-row f-spa-eve w-100">
-        <p class="btn-s btn-primary">smol btn</p>
-        <p class="btn btn-primary">normal btn</p>
-        <p class="btn-l btn-primary">big btn</p>
-        <p class="btn-xl btn-primary">very big btn</p>
+  </div>
+  <div class="content">
+    <div class="container">
+      <div class="row">
+        <h3 class="secondary">Développeur web</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati debitis culpa autem impedit reprehenderit ipsum quam id! Ducimus, eveniet quos? Quibusdam consectetur eveniet voluptate sit beatae aperiam velit alias labore!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, unde adipisci voluptates repellat assumenda fuga reprehenderit, rem itaque tempora ex eos at ad laborum? Expedita, culpa perferendis! Unde, ea aut.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo reprehenderit fugiat expedita eos unde beatae magni aut nihil, aspernatur, aliquam nisi non! Ad, ullam perferendis odit officia inventore maxime in.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi accusantium aliquid eaque saepe corrupti voluptatem reprehenderit ex soluta, laboriosam ipsa cumque earum fugiat! Aperiam, explicabo odio fuga sint fugit facilis?
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe non recusandae cum nam velit fugiat laboriosam obcaecati, omnis id officia distinctio temporibus maiores sunt ipsa neque quo error unde et!
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet ratione quas numquam consectetur error consequuntur iure impedit at debitis praesentium ducimus tenetur quo quae eum saepe iusto, aliquid vel ullam.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis repellendus corrupti? At id, cum quidem doloremque, quisquam quia vitae inventore eum quam eius, asperiores possimus sunt dolor rem dicta.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, et aliquam, quod ipsam corporis sint cum quaerat minima eius asperiores eligendi modi ullam non deleniti doloribus? Atque rem culpa perspiciatis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eius pariatur in. Hic, dolores ipsum laborum neque labore earum fuga aliquam tempore voluptas ut, laudantium, aspernatur corporis facilis? Quibusdam, eligendi!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti deserunt, sint architecto, excepturi officia nostrum vel rem dignissimos magni illum fugiat sed incidunt doloribus fuga modi quaerat temporibus corporis quas!
+        </p>
+        <h4>Ouais</h4>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ipsum corrupti nemo sint eaque nobis iste consequatur magnam molestias illo libero ad nisi asperiores cupiditate! Soluta ratione pariatur consequuntur minima?</p>
       </div>
-    </div>
-    <div class="row">
-      <div class="flex f-row f-spa-eve w-100 f-wrap">
-        <p class="btn btn-primary">btn primary</p>
-        <p class="btn btn-secondary">btn secondary</p>
-        <p class="btn btn-danger">btn danger</p>
-        <p class="btn btn-light">btn light</p>
-        <p class="btn btn-dark">btn dark</p>
-        <p class="btn btn-background">btn background</p>
+      <div class="row">
+        <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-appriou-772186159/">LinkedIn</a>
       </div>
     </div>
   </div>
