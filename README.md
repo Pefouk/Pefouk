@@ -14,6 +14,36 @@ Hello World
 I mainly do Back End Developpement, especially with Symfony (PHP). Even though i try my best to get good at Front End.  
 Currently working for [@Different-et-competent](https://github.com/Different-et-competent) until January 2022.
 
+## Techs
+### Frameworks
+- Symfony 
+- Django
+- NodeJS
+- Svelte
+- Angular
+- Ionic
+### Languages
+- PHP
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+- Sass/Scss
+- Bash
+- SQL
+### Others
+- GNU/Linux
+- Windows
+- CRON
+- API REST
+
+### Planning to learn
+- ThreeJS
+- GO
+- React
+- Unity
+
 ## What do i like
 - IT 💻
 - Sports
@@ -23,7 +53,8 @@ Currently working for [@Different-et-competent](https://github.com/Different-et-
 - eSports
   - League Of Legends 👻
   - Counter-Strike 🔫
-- Board Games 🎴
+- Board Games 🎲
+- Discovering cool open source projects (I tend to star a lot of them)
 - Cinema/Anime 🎥
 ----
 a bueno adios
