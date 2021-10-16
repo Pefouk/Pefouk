@@ -1,6 +1,5 @@
 # It's a me, Pefouk.
 Hello World  
-[![My streak](https://github-readme-streak-stats.herokuapp.com/?user=Pefouk&theme=blue-green)](https://github.com/pefouk)  
 [![My github stats](https://github-readme-stats.vercel.app/api?username=pefouk&theme=blue-green)](https://github.com/pefouk)  
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pefouk&theme=blue-green)](https://github.com/pefouk)  
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=pefouk&row=1)](https://github.com/pefouk)  
