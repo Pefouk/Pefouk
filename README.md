@@ -1,7 +1,8 @@
 # It's a me, Pefouk.
 Hello World  
-[![My github stats](https://github-readme-stats.vercel.app/api?username=pefouk&theme=blue-green)](https://github.com/pefouk)  
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pefouk&theme=blue-green)](https://github.com/pefouk)  
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pefouk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pefouk&theme=neon-dark&count_private=true)](https://github.com/pefouk)  
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pefouk&theme=neon-dark&count_private=true&layout=compact)](https://github.com/pefouk)  
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=pefouk&row=1)](https://github.com/pefouk)  
 ## `$ whoami`
 - Jérémy Appriou
