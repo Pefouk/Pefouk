@@ -1,6 +1,6 @@
 # It's a me, Pefouk.
 Hello World  
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pefouk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pefouk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/pefouk)  
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pefouk&theme=radical&count_private=true)](https://github.com/pefouk)  
   
