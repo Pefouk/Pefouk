@@ -50,6 +50,8 @@ Currently working for [@Different-et-competent](https://github.com/Different-et-
 - eSports
   - League Of Legends 👻
   - Counter-Strike 🔫
+- Video Games 🕹
+- Music 🎧
 - Board Games 🎲
 - Discovering cool open source projects (I tend to star a lot of them)
 - Cinema/Anime 🎥
@@ -66,4 +68,4 @@ Currently working for [@Different-et-competent](https://github.com/Different-et-
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=pefouk&row=1&theme=radical)](https://github.com/pefouk)  
   
 
-a bueno adios
+abueno adios
