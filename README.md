@@ -9,7 +9,6 @@ Hello World
 
 ## What do i do
 I mainly do Back End Developpement, especially with Symfony (PHP). Even though i try my best to get good at Front End.  
-Currently working for [@Different-et-competent](https://github.com/Different-et-competent) until January 2022.
 
 ## Techs
 ### Frameworks
