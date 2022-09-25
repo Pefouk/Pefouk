@@ -3,7 +3,7 @@ Hello World
   
 ## `$ whoami`
 - Jérémy Appriou
-- Web Developper
+- Web Developper for samsic
 - French 🇫🇷
 - 22 Years Old 
 
@@ -61,8 +61,6 @@ I mainly do Back End Developpement, especially with Symfony (PHP). Even though i
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pefouk&theme=radical&count_private=true)](https://github.com/pefouk)  
   
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pefouk&theme=radical&count_private=true&layout=compact)](https://github.com/pefouk)  
-
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pefouk&theme=radical)](https://wakatime.com/@pefouk)  
 
 [![My github trophy](https://github-profile-trophy.vercel.app/?username=pefouk&row=1&theme=radical)](https://github.com/pefouk)  
   
