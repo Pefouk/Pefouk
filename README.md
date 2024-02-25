@@ -5,7 +5,7 @@ Hello World
 - Jérémy Appriou
 - Web Developper for samsic
 - French 🇫🇷
-- 23 Years Old 
+- 24 Years Old 
 
 ## What do i do
 I mainly do Back End Developpement, especially with Symfony (PHP). Even though i try my best to get good at Front End.  
