@@ -5,35 +5,29 @@ Hello World
 - Jérémy Appriou
 - Web Developper for samsic
 - French 🇫🇷
-- 24 Years Old 
+- 25 Years Old
+- FC Linux
 
 ## What do i do
 I mainly do Back End Developpement, especially with Symfony (PHP). Even though i try my best to get good at Front End.  
 
 ## Techs
-### Frameworks
+### Frameworks and stuff
 - Symfony
-- NodeJS
-- Svelte
+- AdonisJS
+- React
+- Astro
 ### Languages
 - PHP
-- JavaScript
-- TypeScript
+- JavaScript/TypeScript
 - HTML
-- CSS
-- Sass/Scss
+- CSS/Scss
 - Bash
 - SQL
-### Others
-- GNU/Linux
-- Windows
-- CRON
-- API REST
 
 ### Planning to learn
-- ThreeJS
-- GO
-- React
+- MAO
+- Rust
 - Unity
 
 ## What do i like
